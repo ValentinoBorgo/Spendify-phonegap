@@ -1,0 +1,16 @@
+{
+    "name": "com.ies.spendify",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "displayName": "SPENDIFY",
+    "dependencies": {
+        "cordova-android": "^8.1.0"
+    },
+    "cordova": {
+        "platforms": [
+            "android"
+        ]
+    }
+}
